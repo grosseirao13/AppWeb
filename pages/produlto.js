@@ -1,5 +1,3 @@
-import Link from 'next/Link'
-
 function Produlto() {
     return (
         <div>
