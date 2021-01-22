@@ -6,9 +6,10 @@ function Home() {
             <h1>Baiano Shop</h1>
             <Link href="/produlto">
                 <a>comprar rede</a>
-            </Link>
-        </div>
-    )
+                </Link>
+                
+        </div >
+        )
 }
 
 export default Home
