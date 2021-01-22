@@ -1,5 +1,11 @@
+$obj = require('page1.html')
 function Home() {
-    return<body> <div>canal do jorgie:</div> <a href="url">https://www.youtube.com/channel/UCgytNKYjZ8qni0HQfA5hqjA</a> </body>
+    return (
+        <div>
+            <h4>canal Hey jorgie</h4>
+            <a>https://www.youtube.com/channel/UCgytNKYjZ8qni0HQfA5hqjA</a>
+        </div>
+        );
 }
 
 export default Home
