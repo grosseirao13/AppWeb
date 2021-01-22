@@ -1,5 +1,12 @@
+import Link from 'next/link'
+
 function Produlto() {
-    return (<div>
+    return (
+        <div>
+            <h1>Rede gamer</h1>
+            <Link href="/">
+                <a>voltar</a>
+            </Link>
         </div>
     )
 }
