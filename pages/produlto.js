@@ -1,6 +1,5 @@
 function Produlto() {
-    return (
-        <div>
+    return (<div>
         </div>
     )
 }
